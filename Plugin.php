@@ -1,11 +1,11 @@
 <?php
 
 /**
- * Sitemap 生成
+ * Sitemap 生成，支持分类、标签、文章、单页
  * 
  * @package Sitemap
  * @author 若海
- * @version 1.0.0
+ * @version 1.1.0
  * @link http://www.rehiy.com
  */
 class Sitemap_Plugin implements Typecho_Plugin_Interface
